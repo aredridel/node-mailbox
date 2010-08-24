@@ -32,5 +32,3 @@ formats, or is malicious in some way, or something weird happens.
 When there is a callback, the retry is handled automatically.
 
 The callback gets two arguments, `(err, writableStream)`
-
-FIXME: when the file is closed, move it into `new/`
