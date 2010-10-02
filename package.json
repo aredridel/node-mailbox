@@ -1,0 +1,6 @@
+{ "name" : "mailbox"
+, "version" : "0.0.1"
+, "description" : "Library for parsing and writing various mailbox formats"
+, "engines" : [ "node" ]
+, "directories" : { "lib" : "./lib" }
+}
