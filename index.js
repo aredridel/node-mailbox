@@ -1,1 +1,1 @@
-require('./lib/mailbox')
+module.exports = require('./lib/mailbox')
