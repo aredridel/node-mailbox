@@ -1,6 +1,7 @@
 { "name" : "mailbox"
-, "version" : "0.0.3"
+, "version" : "0.0.4"
 , "description" : "Library for parsing and writing various mailbox formats"
 , "engines" : [ "node" ]
 , "directories" : { "lib" : "./lib" }
+, "main" : "./lib/mailbox.js"
 }
